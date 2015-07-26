@@ -1,5 +1,3 @@
-setwd('Y:/Weiterbildung/Coursera/Data_Science/Exploratory Data Analysis/week3')
-
 #dataimport and subset
 codebook<-readRDS('Source_Classification_Code.rds')
 data<-readRDS('summarySCC_PM25.rds')
