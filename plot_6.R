@@ -1,5 +1,3 @@
-setwd('Y:/Weiterbildung/Coursera/Data_Science/Exploratory Data Analysis/week3')
-
 library(ggplot2)
 
 #dataimport and subset
